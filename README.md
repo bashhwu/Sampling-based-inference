@@ -1,6 +1,6 @@
 # Sampling-based-inference
 
-Let me introduce you first to the fundamnetal formula of bayesianism: Bayes rule which is defined as: 
+Let me first introduce you  to the fundamnetal formula of bayesianism: Bayes rule which is defined as: 
 
                                  posterior=(likelihood*prior)/marginal likelihood
                                  
